@@ -1,0 +1,21 @@
+h1 { font-family: monospace;
+    color: whitesmoke;
+    font-size:100PX }
+
+
+
+
+p{ font-family: monospace;
+color: whitesmoke;
+font-size: 69PX}
+
+
+a{
+    color: whitesmoke;
+
+}
+
+body{
+    background-image:url('matrix-numbers.gif'); background-repeat:repeat; 
+    
+    text-align:center; }
